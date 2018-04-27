@@ -11,5 +11,5 @@ tags:
 效果如下图所示：
 
 -----
-![report-slide-01](/imgs/report-slides.png)
+![report-slide-01](/imgs/report-slide-01.JPG)
 -----
